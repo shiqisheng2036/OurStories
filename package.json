@@ -1,7 +1,7 @@
 {
  "name": "ourstories",
  "version": "1.0.0",
- "description": "Much like the Improvisation game, Our Stories allows groups of friends to create stories by having each participant add 1 word at a time. ",
+ "description": "Much like the Improvisation game, Our Stories allows groups of friends to create stories by having each participant add 1 word at a time.",
  "main": "backend/main.js",
  "scripts": {
   "run": "node backend/main.js"
