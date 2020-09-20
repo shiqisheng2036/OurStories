@@ -1,6 +1,6 @@
 body{
     background:whitesmoke;
-    font-family: Arial;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2{
@@ -20,6 +20,11 @@ p {
     30px;
 }
 
-#enter{
+button{
     align-content: center;
+    background: grey;
+    border:none;
+    color:white;
+    padding: 5px;
 }
+.button1 {border-radius: 5px;}
