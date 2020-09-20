@@ -16,8 +16,7 @@ p {
 #nav{
     background:rgb(179, 207, 214);
     color:white;
-    padding:10px 
-    30px;
+    padding:10px 30px;
 }
 
 button{
@@ -27,4 +26,9 @@ button{
     color:white;
     padding: 5px;
 }
+
+ul{
+    line-height: 30px;
+}
+
 .button1 {border-radius: 5px;}
