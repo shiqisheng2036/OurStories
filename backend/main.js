@@ -7,7 +7,7 @@ app.use(express.static("frontend"));
 
 // A dictionary of room id to the list of words
 const roomIdToWords = {};
-roomIdToWords[-1] = ["This", "is", "temporary", "testing", "data"]; //TODO: delete this line once we get everything working
+roomIdToWords[-1] = ["Welcome", "to", "Tokyo", "Disney", "Sea"]; //TODO: delete this line once we get everything working
 
 // When roomData is fetched, return a list of words for that room
 app.get("/api/roomData", (req, res) => {
