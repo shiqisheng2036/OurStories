@@ -1,3 +1,7 @@
+
+var userWord = prompt("Please enter some word");
+alert(userWord);
+
 const roomId = -1; //TODO: don't hardcode this value in
 
 async function main() {
