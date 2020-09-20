@@ -2,6 +2,19 @@ body{
     background:whitesmoke;
     font-family: Arial;
 }
+
 h1, h2{
     color:rgb(0, 56, 129);
+}
+
+p {
+    background:rgb(136, 35, 35);
+    color:white;
+    padding:7px;
+}
+
+#nav{
+    background:rgb(179, 207, 214);
+    color:white;
+    padding:10px 30px;
 }
