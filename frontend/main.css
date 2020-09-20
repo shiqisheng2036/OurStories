@@ -16,5 +16,10 @@ p {
 #nav{
     background:rgb(179, 207, 214);
     color:white;
-    padding:10px 30px;
+    padding:10px 
+    30px;
+}
+
+#enter{
+    align-content: center;
 }
